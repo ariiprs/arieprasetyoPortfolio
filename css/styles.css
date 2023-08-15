@@ -496,6 +496,11 @@ progress {
   font-weight: 300;
   line-height: 1.2;
 }
+
+.group-hover\:scale-125:hover {
+  transform: scale(1.25);
+}
+
 @media (min-width: 1200px) {
   .display-1 {
     font-size: 5rem;
